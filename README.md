@@ -43,7 +43,7 @@ lib/
 ## Firebase Setup
 
 Android:
-- Place your `android/app/google-services.json` (already present in this repo)
+- Pandroid/app/google-services.json` (already present in this repo)
 - Ensure Gradle is configured (default Flutter + `google-services` plugin)
 
 iOS:
@@ -60,7 +60,7 @@ flutter pub get
 flutter run
 ```
 
-Pick your device/emulator when prompted. For web, run `flutter run -d chrome`.
+device/emulator when prompted. For web, run `flutter run -d chrome`.
 
 ## Building Releases
 
@@ -129,6 +129,11 @@ Adjust for your needs before deploying.
 
 - Quotes carousel page indicator not moving:
   - Ensure `carousel_slider` is v5+ and `CarouselSliderController` is used
+
+## Screenshots
+- added screenshot in the screenshot folder in the repository
+
+
 
 ## License
 
