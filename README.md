@@ -130,23 +130,12 @@ Adjust for your needs before deploying.
 - Quotes carousel page indicator not moving:
   - Ensure `carousel_slider` is v5+ and `CarouselSliderController` is used
 
-## Screenshots
-- # Project Screenshots
 
-Below are the screenshots of the project:
-
-## Screenshots
-
-# Project Screenshots
-
-## Screenshots
-
-# Project Screenshots
 
 ## Screenshots
 
 <!-- Row 1 (4 images) -->
-<p align="center">
+<p align="left">
   <img src="ScreenShot/SignIn.png" width="23%" />
   <img src="ScreenShot/Create%20Account.png" width="23%" />
   <img src="ScreenShot/New%20Habbit.png" width="23%" />
@@ -154,14 +143,14 @@ Below are the screenshots of the project:
 </p>
 
 <!-- Row 2 (3 images) -->
-<p align="center">
+<p align="left">
   <img src="ScreenShot/Analytics.png" width="30%" />
   <img src="ScreenShot/Profile.png" width="30%" />
   <img src="ScreenShot/Your%20Habit.png" width="30%" />
 </p>
 
 <!-- Row 3 (1 image) -->
-<p align="center">
+<p align="left">
   <img src="ScreenShot/FirebaseStore.png" width="50%" />
 </p>
 
