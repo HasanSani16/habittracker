@@ -131,7 +131,22 @@ Adjust for your needs before deploying.
   - Ensure `carousel_slider` is v5+ and `CarouselSliderController` is used
 
 ## Screenshots
-- added screenshot in the screenshot folder in the repository
+- # Project Screenshots
+
+Below are the screenshots of the project:
+
+## Screenshots
+
+![Screenshot 1](ScreenShot/Screenshot%202025-08-29%20184410.png)
+![Screenshot 2](ScreenShot/Screenshot%202025-08-29%20184501.png)
+![Screenshot 3](ScreenShot/Screenshot%202025-08-29%20184614.png)
+![Screenshot 4](ScreenShot/Screenshot%202025-08-29%20184701.png)
+![Screenshot 5](ScreenShot/Screenshot%202025-08-29%20184728.png)
+![Screenshot 6](ScreenShot/Screenshot%202025-08-29%20184749.png)
+![Screenshot 7](ScreenShot/Screenshot%202025-08-29%20191021.png)
+![Screenshot 8](ScreenShot/Screenshot%202025-08-29%20191619.png)
+![Screenshot 9](ScreenShot/Screenshot%202025-08-29%20192417.png)
+
 
 
 
