@@ -141,23 +141,29 @@ Below are the screenshots of the project:
 
 ## Screenshots
 
-<p align="left">
-  <img src="ScreenShot/Screenshot%202025-08-29%20184410.png" width="30%" />
-  <img src="ScreenShot/Screenshot%202025-08-29%20184501.png" width="30%" />
-  <img src="ScreenShot/Screenshot%202025-08-29%20184614.png" width="30%" />
+# Project Screenshots
+
+## Screenshots
+
+<!-- Row 1 (4 images) -->
+<p align="center">
+  <img src="ScreenShot/SignIn.png" width="23%" />
+  <img src="ScreenShot/Create%20Account.png" width="23%" />
+  <img src="ScreenShot/New%20Habbit.png" width="23%" />
+  <img src="ScreenShot/Quotes.png" width="23%" />
 </p>
 
-<p align="left">
-  <img src="ScreenShot/Screenshot%202025-08-29%20184701.png" width="30%" />
-  <img src="ScreenShot/Screenshot%202025-08-29%20184728.png" width="30%" />
-  <img src="ScreenShot/Screenshot%202025-08-29%20184749.png" width="30%" />
+<!-- Row 2 (3 images) -->
+<p align="center">
+  <img src="ScreenShot/Analytics.png" width="30%" />
+  <img src="ScreenShot/Profile.png" width="30%" />
+  <img src="ScreenShot/Your%20Habit.png" width="30%" />
 </p>
 
-<p align="left">
-  <img src="ScreenShot/Screenshot%202025-08-29%20191619.png" width="30%" />
-  <img src="ScreenShot/Screenshot%202025-08-29%20192417.png" width="30%" />
+<!-- Row 3 (1 image) -->
+<p align="center">
+  <img src="ScreenShot/FirebaseStore.png" width="50%" />
 </p>
-
 
 
 
