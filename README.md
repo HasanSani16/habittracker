@@ -153,12 +153,12 @@ Adjust for your needs before deploying.
 <!-- Row 3 (2 images) -->
 <p align="center">
   <img src="ScreenShot/Screenshot%202025-08-29%20191619.png" width="45%" />
-  <img src="ScreenShot/Screenshot%202025-08-29%20192417.png" width="45%" />
+  <img src="ScreenShot/Screenshot%202025-08-29%20184749.png" width="30%" />
 </p>
 
 <!-- Row 4 (1 image) -->
 <p align="center">
-  <img src="ScreenShot/Screenshot%202025-08-29%20191021.png" width="50%" />
+  <img src="ScreenShot/Screenshot%202025-08-29%20192417.png" width="45%" />
 </p>
 
 
