@@ -137,15 +137,27 @@ Below are the screenshots of the project:
 
 ## Screenshots
 
-![Screenshot 1](ScreenShot/Screenshot%202025-08-29%20184410.png)
-![Screenshot 2](ScreenShot/Screenshot%202025-08-29%20184501.png)
-![Screenshot 3](ScreenShot/Screenshot%202025-08-29%20184614.png)
-![Screenshot 4](ScreenShot/Screenshot%202025-08-29%20184701.png)
-![Screenshot 5](ScreenShot/Screenshot%202025-08-29%20184728.png)
-![Screenshot 6](ScreenShot/Screenshot%202025-08-29%20184749.png)
-![Screenshot 7](ScreenShot/Screenshot%202025-08-29%20191021.png)
-![Screenshot 8](ScreenShot/Screenshot%202025-08-29%20191619.png)
-![Screenshot 9](ScreenShot/Screenshot%202025-08-29%20192417.png)
+# Project Screenshots
+
+## Screenshots
+
+<p align="left">
+  <img src="ScreenShot/Screenshot%202025-08-29%20184410.png" width="30%" />
+  <img src="ScreenShot/Screenshot%202025-08-29%20184501.png" width="30%" />
+  <img src="ScreenShot/Screenshot%202025-08-29%20184614.png" width="30%" />
+</p>
+
+<p align="left">
+  <img src="ScreenShot/Screenshot%202025-08-29%20184701.png" width="30%" />
+  <img src="ScreenShot/Screenshot%202025-08-29%20184728.png" width="30%" />
+  <img src="ScreenShot/Screenshot%202025-08-29%20184749.png" width="30%" />
+</p>
+
+<p align="left">
+  <img src="ScreenShot/Screenshot%202025-08-29%20191619.png" width="30%" />
+  <img src="ScreenShot/Screenshot%202025-08-29%20192417.png" width="30%" />
+</p>
+
 
 
 
